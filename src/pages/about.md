@@ -1,23 +1,19 @@
 ---
 title: "About"
-date: "2018-07-19"
-author: "Radek"
+date: "2019-03-23"
+author: "Ryan"
 path: "/about"
 ---
 
 ## Hi there
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+I am Ryan and this is the workings of my mind and the experiences of my explorations beyond.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I am a Software Developer by trade and have spent over the last 20 years using various methods and techniques to gain insight into our place in the cosmos.  I have always been drawn towards both technology and spiritual experience and have never seen these two things as being at odds to one another.  They are infact complementary and both vital in the next phase we are moving into.
 
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
+Hopefully the words contained within this humble website will help you.  And if not, I hope atleast they will not hinder.
 
-The starter includes:
+Nama Gana.    
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
+This is for you
 
-So, there you have it... enjoy!
