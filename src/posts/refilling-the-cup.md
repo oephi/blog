@@ -11,9 +11,7 @@ tags: ['alchemy', 'meditation', 'consciousness', 'transformation', 'transmutatio
 
 There is a common parable often used in spiritual circles, all slightly different with varying sources and influences, but always following the same line:
 
-> _A professor comes to learn from a wise Zen master, but it quickly >becomes obvious to the Zen master that this professor is more interested >in showing off his own knowledge then in learning. He interrupts the Zen >master. He follows each story the Zen master tells with a story of his >own instead of really listening (You know the type, the person who has to >top your story about loss or success, or a failed attempt at something >with one of their own instead of hearing you out and empathising.). So >the Zen master begins to pour a cup of tea. He fills the cup and keeps >pouring, so that the cup is overflowing._
-
-> _The professor stops him, saying the cup is overflowing, no more will fit >in. The Zen master says to the professor, before you can really learn ?>something you have to empty your cup._
+> _A professor comes to learn from a wise Zen master, but it quickly becomes obvious to the Zen master that this professor is more interested in showing off his own knowledge then in learning. He interrupts the Zen master. He follows each story the Zen master tells with a story of his own instead of really listening (You know the type, the person who has to top your story about loss or success, or a failed attempt at something with one of their own instead of hearing you out and empathising.). So the Zen master begins to pour a cup of tea. He fills the cup and keeps pouring, so that the cup is overflowing. The professor stops him, saying the cup is overflowing, no more will fit in. The Zen master says to the professor, before you can really learn something you have to empty your cup._
 
 At this point the author will usually point to the necessity for maintaining an attitude of an open mind without preconceived ideas in order to allow the revealing of the true nature of teachings, experiences, etc. This is good! And is so very very important when delving into the search for the Self.
 
