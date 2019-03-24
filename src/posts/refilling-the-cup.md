@@ -42,4 +42,4 @@ The mind has a limited array of responses and experiences. The mind is that bori
 
 Spiritual practice is not the cessation of the mind but the embracing of that part of you that is closer to the Self. Quieting the mind is only the start. It is the first step towards the experience of our more enlivened levels. And when you start seeing and feeling what is beyond our mundane level, you will want to keep feeling it, and experiencing it and eventually you will find that more and more of your life is experienced on that level, and not the mind. And because you have structured yourself to be in these levels, more experiences and more beautifully intense things await for your perusal. Because you have taken the step, and the path is now open to you.
 
-And infinity no longer comes a conceptual paradox, but the edge upon which your gaze lingers.
+And so infinity is no longer a conceptual paradox, but the edge upon which your gaze lingers.
