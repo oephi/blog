@@ -1,7 +1,7 @@
 ---
-title: "PoP!_OS: Is it Worth Trying"
+title: "My Take on PoP!_OS"
 path: "/pop!_os"
-date: "2019-03-23"
+date: "2019-03-24"
 coverImage: "../images/pop-os.png"
 author: "Ryan"
 excerpt: "Recently I changed careers and was lucky enough to be hired by an amazing software development company in Sydney called Alembic.  Prior to this, my career ..."
@@ -68,14 +68,12 @@ Am I staying?
 
 As much as I love Arch linux, I do not see a valid enough reason to go back. I will miss the freedom of using yay with the AUR. I will miss the simple beauty of Arch's package manager. I will miss the feeling of pride I have when I say that I am an ArchLinux user. But PoP!\_OS is polished enough and has enough freedom to be what I need it to be. I am not an advanced power user, I am more of a mid-weight power user, and PoP!\_OS fills my needs completely. The extra peace of mind and support of Debian coupled with my mediocre linux know-how from years inside Arch, is enough to make an Ubuntu based distro a good idea.
 
-
 In saying that, I don't think I would have the same feeling if I had not been trained under the fire of ArchLinux. Because of Arch, I know where things are, I know how Linux works, so when Ubuntu shows me their wall, I know where the gate is. Because of Arch, I have learnt to appreciate the power of what Linux is. And due to that understanding, it has allowed me to find that appreciation in all distros.
 
 <div style="width:7em;font-size:808;text-align:center;margin:10px;float:left">
 <img src="../images/sadtux.png" style="width:7em;">
 <em></em>
 </div>
-
 
 And I have to say that I am really keen to see what System76 have planned for the world of Linux, and am excited to be a part of the movement.
 
