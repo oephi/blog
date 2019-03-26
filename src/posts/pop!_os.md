@@ -1,5 +1,5 @@
 ---
-title: "My Take on PoP!_OS"
+title: "My Entirely Subjective Take on PoP!_OS"
 path: "/pop!_os"
 date: "2019-03-24"
 coverImage: "../images/pop-os.png"
