@@ -53,6 +53,10 @@ I HAVE NEVER THOUGHT ABOUT DOING THAT!
 
 So when you want to drop a folder into Google Drive, you just drag it and drop it right in there like you would anything else.
 
+Maybe Ubuntu does this already, I wouldn't know.  Maybe all the things I love about Pop!_OS are actually Ubuntu things.
+
+That scares me.
+
 Also, it comes with a blue light filter pre-installed which for me is a god-send because I often have difficulty getting Redshift or Flux stable enough to be helpful.
 
 The PoP!\_OS theming is really nice. It is a flat-style approach with some really awesome colour scheming which works incredibly well with the Gnome OS aesthetic. You can tell quite a bit of time was spent on how the distro looks, and I really appreciate the effort.
